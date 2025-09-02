@@ -1,10 +1,11 @@
-var numero, triplo
+var numero, dobro
 numero=parseInt(prompt("Digite um numero: "))
 
 if(numero<=3){
- triplo=numero*3
- alert("O triplo é: "+triplo)
+ dobro=numero*2
+ alert("O dobro é: "+dobro)
 
 }else{
-    alert("Digite outro numero.")
+    dobro= numero*3
+    alert("O triplo é: "+dobro)
 }
