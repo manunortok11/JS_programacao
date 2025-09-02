@@ -30,7 +30,7 @@ switch(dia){
         alert("Sábado")
         break
     }
-    default{
+    default:
         alert("Opção inválida")
-    }
+    
 }

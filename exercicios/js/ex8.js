@@ -3,7 +3,7 @@ var a, b
   b = parseFloat(prompt("Digite o segundo número: "))
 
 if (a>b) {
-    alert("O maior número é: " + a);
+    alert("O maior número é: " + a)
 } else if (b>a) {
-    alert("O maior número é: " + b);
+    alert("O maior número é: " + b)
 } 
